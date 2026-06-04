@@ -1,0 +1,837 @@
+idiom_word_count,literal_word_count,idiom_phrase,literal_phrase,figurative_meaning,literal_meaning
+3,3,kick the bucket,kick the ball,to die,hit the sphere with your foot
+3,3,read the room,read the book,understand a situation,parse the pages
+3,3,break the ice,break the glass,start a conversation,shatter the window
+3,3,spill the beans,spill the water,reveal a secret,pour out the liquid
+3,3,bite the bullet,bite the apple,face something difficult,chew the fruit
+3,3,hit the hay,hit the ball,go to sleep,strike the sphere
+3,3,cut the mustard,cut the paper,meet expectations,slice the document
+3,3,jump the shark,jump the fence,decline in quality,leap over the barrier
+3,3,rock the boat,rock the chair,cause trouble,shake the seat
+3,3,face the music,face the mirror,accept consequences,confront the reflection
+3,3,toe the line,toe the water,follow rules,test the depth
+3,3,miss the boat,miss the train,lose an opportunity,fail to catch the ride
+3,3,pass the buck,pass the book,shift responsibility,hand over the novel
+3,3,break a leg,break a stick,good luck,snap the twig
+3,3,hit the road,hit the drum,leave,strike the instrument
+3,3,get the sack,get the bag,be fired from a job,receive the container
+3,3,fit the bill,fit the shirt,be suitable,wear the garment
+3,3,clear the air,clear the table,resolve tension,wipe the surface
+3,3,ring a bell,ring the alarm,sound familiar,sound the siren
+3,3,push the envelope,push the button,exceed the limits,press the switch
+3,3,pop the question,pop the balloon,propose marriage,burst the inflatable
+3,3,lose your touch,lose your phone,lose a skill,misplace the device
+3,3,call the shots,call the dogs,be in charge,summon the canines
+3,3,drop the ball,drop the pen,make a mistake,release the writing tool
+3,3,under the weather,under the umbrella,feeling ill,beneath the rain shield
+3,3,the last straw,the first straw,the final tolerable act,the initial reed
+3,3,play devil's advocate,play a role,argue an opposing view,act a part
+3,3,pull someone's leg,pull someone's hair,joke or tease someone,tug on the tresses
+3,3,spill the tea,spill the soup,share gossip,pour out the broth
+3,3,hit the books,hit the pillow,study,strike the cushion
+3,3,break the bank,break the jar,be too expensive,shatter the container
+3,3,on thin ice,on wet grass,in a risky position,standing on damp turf
+3,3,hit the sack,hit the drum,go to sleep,strike the instrument
+3,3,break the news,break the paper,share bad news,tear the sheet
+3,3,blow off steam,blow off dust,release frustration,blow away the particles
+3,3,hold your horses,hold your hat,wait,grip the cap
+3,3,hit the ceiling,hit the roof,become very angry,strike the top
+3,3,in hot water,in cold water,in trouble,in chilly water
+3,3,raise the bar,raise the gate,set higher standards,lift the barrier
+3,3,break the silence,break the branch,start talking,snap the limb
+3,3,hit the spot,hit the target,satisfy perfectly,strike the target
+3,3,steal the show,steal the bike,get all the attention,take the bicycle
+3,3,on the fence,on the bench,undecided,sitting on the bench
+3,3,spill your guts,spill your juice,reveal everything,pour out the drink
+3,3,hold your tongue,hold your spoon,stay silent,grip the utensil
+3,3,jump the gun,jump the hurdle,start too early,leap over the barrier
+3,3,cut the cord,cut the rope,end a dependence,slice the rope
+3,3,walk on eggshells,walk on tiles,act very carefully,step across tiled flooring
+3,3,on cloud nine,on cloud three,very happy,on the third cloud
+3,3,beyond the pale,beyond the fence,unacceptable,past the fence
+3,3,a hot potato,a hot stove,controversial issue,heated appliance
+3,3,bed of roses,bed of flowers,easy situation,floral resting place
+3,3,bite the dust,bite the bread,die,chew baked loaf
+3,3,blow your mind,blow your nose,astonish you,expel mucus
+3,3,break the mold,break the plate,be original,shatter ceramic dish
+3,3,bury the hatchet,bury the box,make peace,cover a container with soil
+3,3,call your bluff,call your number,challenge deception,dial the digits
+3,3,chew the fat,chew the meat,chat casually,masticate cooked flesh
+3,3,cook the books,cook the pasta,falsify accounts,prepare the noodles
+3,3,cool your jets,cool your soup,calm down,lower broth temperature
+3,3,cross the line,cross the street,behave unacceptably,walk across the road
+3,3,cut a rug,cut a cloth,dance,slice fabric
+3,3,dodge a bullet,dodge a ball,avoid danger,evade the projectile
+3,3,draw the line,draw a circle,set a boundary,sketch a round shape
+3,3,eat your words,eat your lunch,retract a statement,consume your meal
+3,3,find your feet,find your shoes,become confident,locate your footwear
+3,3,get a grip,get a cup,control yourself,obtain a vessel
+3,3,get cold feet,get cold hands,lose courage,have chilly fingers
+3,3,get your goat,get your coat,irritate you,retrieve a jacket
+3,3,grasp the nettle,grasp the handle,confront difficulty,hold the lever
+3,3,hang your head,hang your coat,feel ashamed,suspend your garment
+3,3,have a blast,have a sandwich,enjoy greatly,possess a meal
+3,3,keep your cool,keep your receipt,stay calm,retain the document
+3,3,kick the habit,kick the door,stop an addiction,strike an entrance panel
+3,3,learn the ropes,learn the alphabet,become familiar,study the letters
+3,3,lift a finger,lift a box,make an effort,raise the container
+3,3,lose your cool,lose your keys,become angry,misplace metal openers
+3,3,make a killing,make a painting,profit greatly,create artwork
+3,3,make a scene,make a cake,cause a disturbance,bake a dessert
+3,3,my two cents,my two coins,personal opinion,a pair of tokens belonging to me
+3,3,off the hook,off the shelf,free from obligation,removed from storage
+3,3,on the ball,on the chair,alert and competent,atop furniture
+3,3,open the floodgates,open the door,allow many things,unseal an entrance
+3,3,pass the baton,pass the salt,transfer responsibility,hand over seasoning
+3,3,pass the torch,pass the cup,transfer responsibility,hand over a vessel
+3,3,pay the piper,pay the cashier,face consequences,give money to clerk
+3,3,piece of cake,piece of bread,easy task,portion of baked loaf
+3,3,play with fire,play with toys,take risks,use objects for amusement
+3,3,pull some strings,pull some ropes,use influence,tug cords
+3,3,pull your weight,pull your cart,do your share,drag a wagon
+3,3,push your luck,push your cart,take excessive risks,shove a wagon
+3,3,raise some eyebrows,raise your hand,cause surprise,lift an arm
+3,3,ride the wave,ride the horse,benefit from a trend,travel mounted on an animal
+3,3,roll the dice,roll the ball,take a chance,move the sphere
+3,3,run the show,run the race,be in control,compete in contest
+3,3,save your skin,save your money,avoid harm,preserve your funds
+3,3,shoot the breeze,shoot the target,chat casually,fire at a mark
+3,3,smell a rat,smell a flower,suspect deception,sniff a blossom
+3,3,spin your wheels,spin your chair,waste effort,rotate a seat
+3,3,take the cake,take the plate,be most remarkable,grab a dish
+3,3,take the plunge,take the train,commit to action,board rail transport
+3,3,tighten your belt,tighten your shoes,reduce spending,fasten your footwear
+3,3,tip the scales,tip the glass,decide the outcome,tilt a vessel
+3,3,turn the corner,turn the handle,begin improving,rotate the lever
+3,3,turn the tables,turn the page,reverse the situation,flip a sheet
+3,3,under your thumb,under your desk,under your control,beneath a worktable
+3,3,wear the pants,wear the coat,be in charge,put on a garment
+3,3,a bad apple,a bruised apple,a troublesome person,a damaged piece of fruit
+3,3,a damp squib,a wet firework,an anticlimactic event,a soaked small firework
+3,3,a dog's breakfast,a dog's meal,a messy situation,food for a dog
+3,3,a lame duck,a limping duck,an ineffective person or thing,a duck that limps
+3,3,a loose cannon,a loose wheel,an unpredictable risky person,an unsecured wheel
+3,3,a mixed bag,a mixed salad,a varied set,a salad with mixed ingredients
+3,3,a pretty penny,a shiny penny,a large amount of money,an attractive small coin
+3,3,a red herring,a red fish,a misleading clue,a fish colored red
+3,3,a rough diamond,a rough stone,a good person with unpolished manners,an uncut gemstone
+3,3,a sacred cow,a sacred statue,an idea protected from criticism,a revered farm animal
+3,3,a sitting duck,a sitting bird,an easy target,a bird that is seated
+3,3,a sticky wicket,a sticky gate,a difficult situation,a gate covered with adhesive
+3,3,a tall order,a tall ladder,a difficult demand,a ladder of great height
+3,3,a wet blanket,a wet towel,a person who spoils fun,a towel soaked with water
+3,3,back seat driver,back seat passenger,someone giving unwanted advice,a passenger sitting behind
+3,3,bad hair day,messy hair morning,a day when everything goes wrong,a morning with untidy hair
+3,3,bag and baggage,bag and suitcase,with everything owned,a bag and suitcase
+3,3,ball and chain,ball and rope,a burdensome restraint,a ball attached to rope
+3,3,barrel of laughs,barrel of apples,a very amusing person,a barrel filled with apples
+3,3,blessing in disguise,gift in wrapping,a hidden benefit,a gift hidden by wrapping
+3,3,bone of contention,bone of chicken,the cause of disagreement,a chicken bone
+3,3,bread and butter,bread and cheese,basic income or essentials,bread served with cheese
+3,3,business as usual,business as registered,normal routine continuing,a company operating normally
+3,3,can of worms,can of peaches,a complicated problem,a can containing peaches
+3,3,cherry on top,cherry on cake,a pleasing extra,a cherry placed on cake
+3,3,chicken and egg,chicken and rooster,a circular cause problem,a hen and a rooster
+3,3,cloak and dagger,cloak and sword,secretive intrigue,a cloak and weapon
+3,3,cloud cuckoo land,cloud bird island,an unrealistic fantasy world,a cloudy island with birds
+3,3,common or garden,common garden flower,ordinary and unremarkable,a typical garden flower
+3,3,crack of dawn,crack of plate,very early morning,a crack in a plate
+3,3,cut and dried,cut and folded,settled and predictable,sliced and dried material
+3,3,done and dusted,done and cleaned,finished completely,completed and made clean
+3,3,doom and gloom,doom and darkness,pessimism and despair,ruin plus darkness
+3,3,double edged sword,double bladed knife,something with benefits and drawbacks,a knife with two edges
+3,3,down and out,down and sideways,destitute or defeated,lower and to the side
+3,3,easy does it,easy moves slowly,proceed carefully,gentle movement happens slowly
+3,3,fair weather friend,fair weather sailor,an unreliable friend,a sailor in pleasant weather
+3,3,famous last words,famous final speech,a prediction likely to fail,well-known final spoken words
+3,3,feast or famine,feast or snack,extreme abundance or scarcity,a large meal or snack
+3,3,a fighting chance,a boxing match,a realistic possibility,a boxing match
+3,3,food for thought,food for guests,something worth considering,food intended for guests
+3,3,for the birds,for the sparrows,worthless or trivial,intended for sparrows
+3,3,full of beans,full of rice,energetic and lively,filled with grains of rice
+3,3,gift of gab,gift of flowers,skillful fluent speech,a present of flowers
+3,3,good old days,good sunny days,a nostalgic past period,pleasant days with sunshine
+3,3,goody two shoes,shiny two shoes,an ostentatiously virtuous person,two polished shoes
+3,3,green with envy,green with paint,very jealous,covered with green paint
+3,3,hand in glove,hand in mitten,working very closely,a hand inside a mitten
+3,3,hand over fist,hand over rail,very rapidly,a hand above a railing
+3,3,hands are tied,hands are dirty,unable to act freely,hands bound by rope
+3,3,hard and fast,hard and smooth,strict and fixed,solid and smooth
+3,3,hard to swallow,hard to chew,difficult to accept,difficult to chew
+3,3,head over heels,head over pillow,completely in love,a head above a pillow
+3,3,heads or tails,heads or bodies,two possible outcomes,heads or animal tails
+3,3,hit or miss,hit or catch,inconsistent or unreliable,strike or catch something
+3,3,house of cards,house of bricks,a fragile arrangement,a building made from bricks
+3,3,labour of love,labor of cleaning,work done from devotion,work spent on cleaning
+3,3,lap of luxury,lap of cloth,great comfort and wealth,a fold of cloth
+3,3,leaps and bounds,leaps and jumps,rapid progress,jumps and bounding movements
+3,3,less is more,less becomes more,simplicity is better,a smaller quantity becomes larger
+3,3,look who's talking,look who entered,said to call out hypocrisy,see who came in
+3,3,lost for words,lost for directions,unable to speak,unable to find directions
+3,3,low hanging fruit,low hanging branch,easy opportunities,fruit hanging near ground
+3,3,many moons ago,many stars ago,a long time ago,many lunar cycles earlier
+3,3,mind over matter,mind over body,willpower overcoming difficulty,a mind above a body
+3,3,money for jam,money for bread,easy money,payment made for jam
+3,3,more fool you,more food please,you acted foolishly,asking for extra food
+3,3,movers and shakers,movers and packers,influential people,people moving and packing
+3,3,mum's the word,mom's the speaker,keep it secret,mother is the speaker
+3,3,neck and neck,neck and shoulders,very close in competition,neck beside shoulders
+3,3,needless to say,needless to print,obviously,unnecessary to print
+3,3,next to nothing,next to doorway,almost nothing,beside a doorway
+3,3,nip and tuck,nip and pinch,a very close contest,a small cut and fold
+3,3,no hard feelings,no hard stones,no resentment,no stones that are hard
+3,3,no holds barred,no doors barred,no restrictions,no doors blocked
+3,3,no laughing matter,no laughing child,a serious issue,no child is laughing
+3,3,no love lost,no coin lost,mutual dislike,no coin has disappeared
+3,3,no man's land,no man's chair,unclaimed or disputed territory,a chair belonging to nobody
+3,3,no strings attached,no strings tied,without conditions,no strings are tied
+3,3,none the wiser,none the taller,not better informed,no one became taller
+3,3,not born yesterday,not born today,not naive,not born on this date
+3,3,not half bad,not half cooked,fairly good,not partly cooked
+3,3,odds and ends,odds and numbers,miscellaneous items,odd and even numbers
+3,3,of two minds,of two colors,undecided,having two colors
+3,3,old wives' tale,old wives' story,a false traditional belief,a story told by older wives
+3,3,one fell swoop,one bird swoop,a single decisive action,one bird diving downward
+3,3,one horse town,one horse stable,a very small dull town,a stable holding one horse
+3,3,one trick pony,one trained pony,someone with only one skill,a pony taught one trick
+3,3,out and about,out and walking,active outside socially,outside and walking around
+3,3,out at elbows,out at corners,shabby or poor,outside at the corners
+3,3,over and above,over and beyond,in addition to,above and beyond a point
+3,3,part and parcel,part and package,an essential component,a part and package
+3,3,pearls before swine,pearls before pigs,valuable things wasted on the unappreciative,pearls placed in front of pigs
+3,3,piece of work,piece of wood,a difficult or unpleasant person,a piece made of wood
+3,3,pins and needles,pins and buttons,tingling or anxious anticipation,sharp pins and buttons
+3,3,plain as day,plain as paper,obvious,as plain as paper
+3,3,pleased as punch,pleased as guests,very pleased,guests who are pleased
+3,3,rank and file,rank and number,ordinary members,rank listed with number
+3,3,red letter day,red paper day,a special memorable day,a day marked on red paper
+3,3,right as rain,right as measured,perfectly healthy or correct,correct as measured
+3,3,rhyme or reason,rhyme or rhythm,logical explanation,rhyme or rhythmic pattern
+3,3,rough and ready,rough and worn,basic but usable,coarse and worn
+3,3,same old story,same old song,a familiar recurring problem,the same song as before
+3,3,second to none,second to last,the best,the position before last
+3,3,short and sweet,short and narrow,brief and pleasant,short and narrow
+3,3,skin and bones,skin and muscles,extremely thin,skin covering bones
+3,3,slice of life,slice of bread,a realistic everyday example,a piece of bread
+3,3,slow and steady,slow and careful,patiently consistent,moving slowly and carefully
+3,3,smoke and mirrors,smoke and dust,deceptive presentation,smoke mixed with dust
+3,3,song and dance,song and chorus,an elaborate fuss,a song and dance performance
+3,3,spit and polish,spit and shine,meticulous cleaning or formality,saliva and shoe shine
+3,3,straight and narrow,straight and level,morally proper behavior,straight and level
+3,3,sweetness and light,sweetness and color,pleasantness and reasonableness,sweet taste and brightness
+3,3,the bee's knees,the bee's legs,something excellent,the legs of a bee
+3,3,the big picture,the big painting,the overall situation,a large painting
+3,3,the cold shoulder,the cold plate,deliberate unfriendliness,a chilled dinner plate
+3,3,the cutting edge,the cutting blade,the most advanced position,the sharp part of a blade
+3,3,the eleventh hour,the eleventh bell,the last possible moment,the eleventh hour of a day
+3,3,the full monty,the full basket,everything possible,a basket completely full
+3,3,the heavy lifting,the heavy box,the hardest work,a box that is heavy
+3,3,the holy grail,the holy cup,a highly sought goal,a sacred cup
+3,3,the last word,the last page,the final authority or best example,the final page
+3,3,the real McCoy,the real painting,the genuine article,an authentic painting
+3,3,the whole shebang,the whole package,everything involved,an entire package
+3,3,thick as thieves,thick as walls,very close or secretive,as thick as walls
+3,3,third time lucky,third time counted,success on the third attempt,the third occasion counted
+3,3,through the grapevine,through the vineyard,by rumor or informal channels,through vines in a vineyard
+3,3,tit for tat,tap for tap,equivalent retaliation,one tap for another
+3,3,tongue in cheek,tongue in mouth,said ironically,a tongue inside a mouth
+3,3,tough as nails,tough as leather,very tough,as hard as leather
+3,3,trial and error,trial and hearing,learning by attempts,a legal trial and hearing
+3,3,trial by fire,trial by jury,a severe first test,a trial conducted by jury
+3,3,tried and true,tried and tested,reliable from experience,tested and proven
+3,3,two left feet,two left shoes,clumsiness in dancing,two shoes for left feet
+3,3,under a cloud,under a roof,under suspicion or disfavor,below a roof
+3,3,under false pretenses,under false labels,deceptively,below incorrect labels
+3,3,under one's belt,under one's coat,safely achieved or experienced,beneath someone's coat
+3,3,under someone's nose,under someone's table,in plain sight,beneath another person's table
+3,3,up and about,up and walking,active after illness,upright and walking
+3,3,up and coming,up and climbing,promising and rising,moving upward while climbing
+3,3,up and running,up and spinning,operating successfully,upright and spinning
+3,3,up for grabs,up for storage,available to anyone,raised for storage
+3,3,up in arms,up in trees,angrily protesting,above among tree branches
+3,3,warts and all,warts and scars,including every flaw,warts plus scars
+3,3,way to go,way to school,an expression of approval,route leading to school
+3,3,well and truly,well and safely,completely,healthy and safe
+3,3,when pigs fly,when birds fly,never,at the time birds fly
+3,3,wild and woolly,wild and furry,uncontrolled or rough,untamed and furry
+3,3,wild goose chase,wild goose flight,a futile pursuit,the flight of a wild goose
+3,3,winner takes all,winner takes trophy,the winner receives everything,the winner takes a trophy
+3,3,with bells on,with shoes on,enthusiastically and gladly,wearing shoes
+3,3,within an ace,within an inch,very nearly,inside an inch
+3,3,word for word,word for line,exactly verbatim,one word per line
+3,3,worse for wear,worse for damage,tired or damaged,made worse by damage
+3,3,yellow brick road,yellow brick path,a route to success or dreams,a path made of yellow bricks
+3,3,against the clock,against the wall,racing against time,positioned against a wall
+3,3,against the grain,against the board,contrary to preference or convention,opposite the wood grain
+3,3,alive and kicking,alive and breathing,active and healthy,living and breathing
+3,3,all at sea,all at lunch,confused and disoriented,everyone at lunch
+3,3,all bets off,all bets placed,normal expectations canceled,all wagers have been placed
+3,3,all in all,all in boxes,overall,everything inside boxes
+3,3,all over again,all over paint,once more from the start,paint covering everything
+3,3,all systems go,all engines started,everything ready,all engines have started
+3,3,all the rage,all the anger,very fashionable,all the anger
+3,3,ask for trouble,ask for directions,invite problems,request directions
+3,3,at a crossroads,at a junction,facing an important choice,standing at a road junction
+3,3,at death's door,at death's gate,near death,beside the entrance of death
+3,3,at face value,at face height,as it appears,at the height of a face
+3,3,at full throttle,at full speed,with maximum effort,at maximum engine speed
+3,3,at loose ends,at loose threads,unoccupied or unsettled,near threads that are loose
+3,3,at the helm,at the wheel,in control,standing at the wheel
+3,3,at the ready,at the counter,prepared for use,waiting at the counter
+3,3,at your fingertips,at your desk,readily available,located at your desk
+3,3,away with fairies,away with luggage,absentminded or unrealistic,gone with luggage
+3,3,back to basics,back to school,returning to fundamentals,returning to school
+3,3,baptism by fire,baptism by water,a difficult first experience,a baptism using water
+3,3,bare your soul,bare your arm,reveal deepest feelings,uncover your arm
+3,3,battle of wills,battle of armies,a contest of determination,a fight between armies
+3,3,be my guest,be my driver,feel free,serve as my driver
+3,3,bear the brunt,bear the load,endure the worst impact,carry the load
+3,3,beat a retreat,beat a drum,withdraw quickly,strike a drum
+3,3,beat the bushes,beat the carpet,search thoroughly,strike the carpet repeatedly
+3,3,beat the drum,beat the cymbal,promote something loudly,strike the cymbal
+3,3,beat the rap,beat the timer,avoid punishment,finish before the timer
+3,3,behind closed doors,behind wooden doors,in private,standing behind doors
+3,3,behind the scenes,behind the curtains,out of public view,behind stage curtains
+3,3,below the belt,below the waist,unfair or cruel,lower than the waist
+3,3,bend over backwards,bend over chairs,make great efforts,bend across chairs
+3,3,bend the rules,bend the wire,relax rules unfairly,curve the wire
+3,3,between the lines,between the ropes,implied rather than stated,space between ropes
+3,3,between two stools,between two chairs,failing between alternatives,positioned between two chairs
+3,3,bide your time,bide your turn,wait patiently,wait for your turn
+3,3,bite your lip,bite your sandwich,avoid speaking,chew your sandwich
+3,3,bite your tongue,bite your peach,stop yourself speaking,chew your peach
+3,3,black and blue,black and white,bruised,two colors
+3,3,black and white,black and green,clear and definite,two colors
+3,3,blaze a trail,blaze a fire,pioneer a path,start a fire
+3,3,bleed someone dry,bleed someone slowly,drain someone of resources,make someone lose blood
+3,3,blow a fuse,blow a horn,lose your temper,sound a horn
+3,3,blow a gasket,blow a whistle,become very angry,force air through a whistle
+3,3,blow the whistle,blow the flute,expose wrongdoing,play the flute by blowing
+3,3,boil the ocean,boil the kettle,attempt the impossible,heat the kettle
+3,3,break new ground,break hard ground,do something innovative,crack hard soil
+3,3,break the chain,break the necklace,interrupt a cycle,snap the necklace
+3,3,break the spell,break the wand,end an enchantment or mood,snap the wand
+3,3,bring to heel,bring to table,force obedience,carry something to a table
+3,3,burn your bridges,burn your letters,destroy future options,set your letters on fire
+3,3,burn your fingers,burn your toast,suffer from risky involvement,overcook your toast
+3,3,butter wouldn't melt,butter wouldn't spread,seem falsely innocent,butter could not spread
+3,3,buy the farm,buy the house,die,purchase the house
+3,3,by and large,by and beside,generally speaking,near and beside
+3,3,by the wayside,by the highway,abandoned or neglected,beside the highway
+3,3,call it quits,call it dinner,stop doing something,name it dinner
+3,3,call the tune,call the station,control decisions,phone the station
+3,3,carry a torch,carry a lantern,remain romantically devoted,hold a lantern
+3,3,carry the can,carry the bucket,take blame or responsibility,hold the bucket
+3,3,catch some rays,catch some fish,sunbathe,capture several fish
+3,3,catch your breath,catch your hat,pause after exertion,grab your hat
+3,3,catch your death,catch your ball,become very ill from cold,catch a ball
+3,3,catch your drift,catch your scarf,understand your meaning,grab your scarf
+3,3,catch your eye,catch your glove,attract your attention,grab your glove
+3,3,change your tune,change your shirt,change your opinion or behavior,put on another shirt
+3,3,chase your tail,chase your dog,work busily without progress,pursue your dog
+3,3,clean your clock,clean your window,defeat someone soundly,wash your window
+3,3,clear as mud,clear as glass,very unclear,transparent like glass
+3,3,climb the ladder,climb the stairs,advance in status,ascend the stairs
+3,3,climb the walls,climb the cliff,feel frantic or trapped,scale the cliff
+3,3,clip someone's wings,clip someone's hair,limit someone's freedom,trim someone's hair
+3,3,close the book,close the lid,end a matter,shut the lid
+3,3,clutch at straws,clutch at handles,grasp weak hopes,grab the handles
+3,3,come a cropper,come a visitor,fail badly,arrive as a visitor
+3,3,come full circle,come full speed,return to the starting point,arrive at full speed
+3,3,come of age,come of winter,become mature,arrive during winter
+3,3,come to blows,come to dinner,begin fighting,arrive for dinner
+3,3,come to grips,come to school,begin dealing effectively,arrive at school
+3,3,come to terms,come to class,accept a situation,arrive at class
+3,3,cost the earth,cost the price,be very expensive,have a stated price
+3,3,count your blessings,count your coins,appreciate good things,count the coins you own
+3,3,cover your tracks,cover your footprints,hide evidence,place cover over footprints
+3,3,crack the whip,crack the shell,enforce discipline,break the shell
+3,3,crash and burn,crash and fall,fail spectacularly,collide and catch fire
+3,3,cradle to grave,cradle to bed,through an entire life,from cradle to bed
+3,3,cross my heart,cross my arms,promise sincerely,fold my arms across
+3,3,cross your fingers,cross your legs,hope for luck,place legs across each other
+3,3,cut both ways,cut both ropes,have two opposite effects,slice both ropes
+3,3,cut no ice,cut no bread,have no influence,slice no bread
+3,3,cut some slack,cut some fabric,be less critical,slice some fabric
+3,3,cut your losses,cut your nails,stop before losing more,trim your nails
+3,3,cut your teeth,cut your steak,gain early experience,slice your steak
+3,3,do a number,do a puzzle,harm or trick someone,complete a puzzle
+3,3,do the trick,do the chore,solve the problem,perform the chore
+3,3,down the drain,down the stairs,wasted,down along the stairs
+3,3,down the hatch,down the chute,swallowed as a drink,down through the chute
+3,3,down the line,down the hallway,later or throughout,farther along the hallway
+3,3,drag your feet,drag your suitcase,delay deliberately,pull your suitcase
+3,3,draw a blank,draw a square,fail to remember,sketch a square
+3,3,draw first blood,draw first card,gain the first advantage,pull the first card
+3,3,dress to kill,dress to travel,dress impressively,put on clothes for travel
+3,3,drive a wedge,drive a car,create division,operate a car
+3,3,drive someone crazy,drive someone home,annoy intensely,take someone home by car
+3,3,drop a bombshell,drop a package,reveal shocking news,let a package fall
+3,3,drop a line,drop a coin,send a short message,let a coin fall
+3,3,eat humble pie,eat apple pie,admit humiliation,consume apple pie
+3,3,escape the noose,escape the room,avoid serious punishment,leave the room
+3,3,even the score,even the surface,retaliate or equalize,make the surface level
+3,3,fall for it,fall for nothing,be deceived,fall because of nothing
+3,3,fall from grace,fall from ladder,lose status or favor,drop from a ladder
+3,3,fall into place,fall into water,become clear or organized,drop into water
+3,3,fan the flames,fan the smoke,intensify conflict,move air onto flames
+3,3,feather your nest,feather your pillow,enrich yourself selfishly,put feathers in your pillow
+3,3,feel the pinch,feel the fabric,experience financial pressure,touch the fabric
+3,3,find your voice,find your wallet,gain confidence expressing yourself,locate your wallet
+3,3,fish for compliments,fish for trout,seek praise indirectly,try to catch trout
+3,3,fly by night,fly by day,unreliable or shady,travel by air at night
+3,3,fly the coop,fly the kite,leave suddenly,send the kite into air
+3,3,follow your nose,follow your guide,use instinct,walk behind your guide
+3,3,foot the bill,foot the ladder,pay the cost,kick the ladder with a foot
+3,3,force the issue,force the door,make a decision unavoidable,push the door open
+3,3,for good measure,for good students,as an extra addition,intended for good students
+3,3,for my money,for my wallet,in my opinion,intended for my wallet
+3,3,for the chop,for the chef,likely to be dismissed or cut,intended for the chef
+3,3,get a life,get a ticket,stop being boring or intrusive,obtain a ticket
+3,3,get in line,get in car,conform or wait your turn,enter a car
+3,3,get into gear,get into bed,start working effectively,climb into bed
+3,3,get the axe,get the shovel,be dismissed,obtain the shovel
+3,3,get the boot,get the shoe,be dismissed or expelled,receive the shoe
+3,3,get the drift,get the broom,understand the general meaning,obtain the broom
+3,3,get the hump,get the backpack,become annoyed,receive the backpack
+3,3,get the message,get the letter,understand the implication,receive the letter
+3,3,get the nod,get the signal,receive approval,receive the signal
+3,3,get the picture,get the photo,understand,receive the photo
+3,3,get wind of,get wind outside,learn about secretly,encounter moving air
+3,3,get your bearings,get your compass,orient yourself,retrieve your compass
+3,3,give a hand,give a flower,help,hand someone a flower
+3,3,give and take,give and receive,mutual compromise,hand over and receive
+3,3,give free rein,give free tickets,allow freedom,provide free tickets
+3,3,give no quarter,give no coins,show no mercy,give no coins
+3,3,give short shrift,give short answer,dismiss with little attention,provide a brief answer
+3,3,give someone hell,give someone tea,scold or harass someone,serve someone tea
+3,3,give the boot,give the shoe,dismiss someone,hand over the shoe
+3,3,go belly up,go belly down,fail or go bankrupt,turn stomach upward
+3,3,go down swinging,go down stairs,fail while still fighting,descend the stairs
+3,3,go for broke,go for coffee,risk everything,leave for coffee
+3,3,go pear shaped,go pear picking,go wrong,go to pick pears
+3,3,go the distance,go the mile,persist to the end,travel the mile
+3,3,go to pot,go to market,deteriorate,travel to market
+3,3,go to seed,go to garden,decline through neglect,move to a garden
+3,3,go to town,go to school,act with great energy,travel to school
+3,3,go whole hog,go whole route,do something completely,travel the entire route
+3,3,good as gold,good as promised,well behaved,as good as promised
+3,3,grit your teeth,grit your path,endure hardship,spread grit on your path
+3,3,hackles are up,hackles are wet,defensiveness or anger is rising,animal hairs are wet
+3,3,hale and hearty,hale and healthy,healthy and strong,healthy and robust
+3,3,half the battle,half the cake,a major part of the task,half of a cake
+3,3,have a ball,have a ticket,enjoy yourself,possess a ticket
+3,3,have a cow,have a calf,become very upset,own a calf
+3,3,have a heart,have a necklace,show compassion,possess a necklace
+3,3,have designs on,have designs printed,want to possess or influence,have patterns printed
+3,3,have green fingers,have green gloves,be good at gardening,wear green gloves
+3,3,have itchy feet,have itchy hands,want to travel,hands feel itchy
+3,3,have second thoughts,have second servings,begin to doubt,receive more servings
+3,3,have the edge,have the corner,possess an advantage,possess the corner
+3,3,have the floor,have the microphone,have permission to speak,hold the microphone
+3,3,heart of gold,heart of metal,a generous nature,a heart made of metal
+3,3,heart to heart,heart to lungs,an honest private talk,heart next to lungs
+3,3,high and dry,high and dusty,stranded without help,elevated and dry
+3,3,high and mighty,high and tall,arrogantly superior,located high and tall
+3,3,hit a snag,hit a nail,encounter a problem,strike a nail
+3,3,hit pay dirt,hit wet soil,make a valuable discovery,strike wet soil
+3,3,hit rock bottom,hit hard stone,reach the lowest point,strike hard stone
+3,3,hit the jackpot,hit the button,achieve great success,press the button
+3,3,hit the skids,hit the brakes,decline rapidly,strike the brakes
+3,3,hit the wall,hit the fence,reach exhaustion or blockage,strike the fence
+3,3,hold the fort,hold the ladder,maintain responsibility temporarily,grip the ladder
+3,3,hold the line,hold the rope,maintain a position,grip the rope
+3,3,hold the reins,hold the straps,keep control,grip the straps
+3,3,in a bind,in a box,in a difficult situation,inside a box
+3,3,in a flash,in a second,very quickly,within one second
+3,3,in a fog,in a mist,confused,inside a mist
+3,3,in a heartbeat,in a minute,immediately and gladly,within one minute
+3,3,in a jam,in a jar,in trouble,inside a jar
+3,3,in a pickle,in a bowl,in a difficult situation,inside a bowl
+3,3,in a rut,in a ditch,stuck in routine,inside a ditch
+3,3,in a snap,in a click,very quickly,within a click
+3,3,in cold blood,in cold water,deliberately and cruelly,inside cold water
+3,3,in deep water,in deep snow,in serious trouble,inside deep snow
+3,3,in dire straits,in narrow straits,in severe trouble,in narrow sea channels
+3,3,in full cry,in full voice,actively pursuing something,using full voice
+3,3,in full swing,in full motion,fully active,moving fully
+3,3,in good hands,in good boxes,well cared for,inside sturdy boxes
+3,3,in good spirits,in good company,cheerful,in pleasant company
+3,3,in high spirits,in high places,very cheerful,in elevated places
+3,3,in one piece,in one box,safe and undamaged,inside a single box
+3,3,in seventh heaven,in seventh row,extremely happy,located in the seventh row
+3,3,in the altogether,in the hallway,naked,inside the hallway
+3,3,in the balance,in the basket,uncertain,inside the basket
+3,3,in the black,in the shadow,profitable,inside the shadow
+3,3,in the cards,in the envelope,likely to happen,inside the envelope
+3,3,in the clear,in the meadow,free from danger or blame,inside an open meadow
+3,3,in the clink,in the kitchen,in jail,inside the kitchen
+3,3,in the clouds,in the sky,daydreaming or unrealistic,within the sky
+3,3,in the doghouse,in the kennel,in disfavor,inside the kennel
+3,3,in the doldrums,in the basement,sad or stagnant,inside the basement
+3,3,in the flesh,in the body,present in person,inside the body
+3,3,in the know,in the class,well informed,inside the class
+3,3,in the limelight,in the spotlight,receiving public attention,standing in a spotlight
+3,3,in the loop,in the circle,kept informed,inside a circle
+3,3,in the lurch,in the doorway,abandoned in difficulty,inside the doorway
+3,3,in the making,in the oven,developing,inside the oven
+3,3,in the pipeline,in the pipe,being developed,inside the pipe
+3,3,in the red,in the tent,losing money,inside the tent
+3,3,in the running,in the race,still a contender,participating in the race
+3,3,in the saddle,in the seat,in control,sitting in the seat
+3,3,in the soup,in the bowl,in trouble,inside the bowl
+3,3,in the swim,in the pool,involved in events,inside the pool
+3,3,in the wings,in the feathers,waiting nearby,inside the feathers
+3,3,in the works,in the factory,being prepared,inside the factory
+3,3,in two minds,in two rooms,undecided,inside two rooms
+3,3,in your element,in your room,comfortable and competent,inside your room
+3,3,jump through hoops,jump through rings,meet many difficult demands,leap through rings
+3,3,keep at bay,keep at home,prevent from approaching,remain at home
+3,3,keep it real,keep it clean,stay authentic,keep something clean
+3,3,keep the faith,keep the receipt,remain confident,retain the receipt
+3,3,keep the peace,keep the vase,prevent conflict,retain the vase
+3,3,keep your distance,keep your jacket,avoid closeness,retain your jacket
+3,3,knock it off,knock it down,stop doing that,strike it downward
+3,3,knock on wood,knock on door,invoke good luck,tap on a door
+3,3,knock spots off,knock spots away,be much better than,remove spots by striking
+3,3,know the drill,know the song,understand the routine,know a song
+3,3,know the score,know the answer,understand the situation,know the answer
+3,3,know your onions,know your vegetables,be knowledgeable,recognize your vegetables
+3,3,lay an egg,lay an object,fail badly,place an object down
+3,3,lead someone astray,lead someone home,mislead someone,guide someone home
+3,3,lead the charge,lead the parade,take initiative,guide the parade
+3,3,leave someone cold,leave someone outside,fail to interest someone,leave someone outdoors
+3,3,leave well alone,leave well water,avoid unnecessary interference,depart from well water
+3,3,let it slide,let it fall,ignore a fault,allow it to fall
+3,3,let off steam,let off smoke,release frustration,release smoke
+3,3,lick your wounds,lick your fingers,recover from defeat,touch fingers with tongue
+3,3,light the fuse,light the candle,start a volatile process,ignite the candle
+3,3,live and learn,live and work,learn from experience,be alive and work
+3,3,live the dream,live the routine,enjoy ideal success,experience a routine
+3,3,look the part,look the same,appear suitable,look identical
+3,3,lose the plot,lose the map,become confused or irrational,misplace the map
+3,3,lose your shirt,lose your jacket,lose a lot financially,misplace your jacket
+3,3,make a beeline,make a sandwich,go directly,prepare a sandwich
+3,3,make a bundle,make a bracelet,earn a lot of money,create a bracelet
+3,3,make a comeback,make a speech,recover success,deliver a speech
+3,3,make a dent,make a mark,make limited progress,create a mark
+3,3,make a fortune,make a sculpture,earn a lot of money,create a sculpture
+3,3,make a hash,make a stew,make a mess,prepare a stew
+3,3,make ends meet,make ends touch,manage financially,join two ends
+3,3,make good time,make good soup,travel quickly,prepare tasty soup
+3,3,make light of,make light shine,treat as unimportant,cause light to shine
+3,3,make or break,make or repair,determine success or failure,create or repair
+3,3,make the grade,make the road,reach the required standard,construct the road
+3,3,make the running,make the path,set the pace,create the path
+3,3,make your mark,make your bed,achieve recognition,arrange your bed
+3,3,mark my words,mark my page,remember my warning,put a mark on my page
+3,3,meet your maker,meet your neighbor,die,encounter your neighbor
+3,3,melt your heart,melt your butter,make you feel tender,liquefy your butter
+3,3,milk it dry,milk the cow,exploit fully,extract milk from a cow
+3,3,miss the mark,miss the target,fail to achieve the aim,fail to hit the target
+3,3,move the goalposts,move the furniture,change rules unfairly,relocate the furniture
+3,3,muddy the waters,muddy the pond,make an issue confusing,make the pond muddy
+3,3,off the boil,off the stove,past peak performance,removed from the stove
+3,3,off the charts,off the table,extremely high or impressive,removed from the table
+3,3,off the cuff,off the sleeve,without preparation,removed from the sleeve
+3,3,off the grid,off the road,outside normal systems,away from the road
+3,3,off the leash,off the collar,free from control,released from a collar
+3,3,off the mark,off the target,incorrect or inaccurate,away from the target
+3,3,off the pace,off the track,behind competitors or expectations,away from the track
+3,3,off the rails,off the tracks,out of control,away from the tracks
+3,3,off the record,off the paper,not for publication,removed from the paper
+3,3,off the scale,off the ruler,beyond normal measurement,not on the ruler
+3,3,off your head,off your hat,crazy or intoxicated,removed from your hat
+3,3,off your rocker,off your chair,crazy,not on your chair
+3,3,on a plate,on a dish,provided without effort,sitting on a dish
+3,3,on a roll,on a wheel,experiencing success,placed on a wheel
+3,3,on a shoestring,on a string,with very little money,resting on a string
+3,3,on a tear,on a page,having a streak of success or activity,resting on a page
+3,3,on bad terms,on bad roads,having a poor relationship,located on bad roads
+3,3,on bended knee,on bended metal,humbly pleading,on bent metal
+3,3,on borrowed time,on borrowed bike,surviving longer than expected,riding a borrowed bike
+3,3,on easy street,on easy path,financially comfortable,walking on an easy path
+3,3,on good form,on good paper,performing well,written on good paper
+3,3,on good terms,on good roads,having a friendly relationship,located on good roads
+3,3,on high alert,on high shelf,very watchful,on an elevated shelf
+3,3,on its merits,on its base,judged fairly,resting on its base
+3,3,on red alert,on red carpet,ready for danger,standing on red carpet
+3,3,on speaking terms,on speaking platform,friendly enough to talk,standing on a speaking platform
+3,3,on the blink,on the screen,malfunctioning,visible on the screen
+3,3,on the bubble,on the surface,uncertain or marginal,resting on the surface
+3,3,on the cards,on the table,likely to happen,lying on the table
+3,3,on the cheap,on the shelf,inexpensively,resting on the shelf
+3,3,on the cusp,on the edge,at a turning point,resting on the edge
+3,3,on the defensive,on the balcony,defending against criticism,standing on the balcony
+3,3,on the dot,on the mark,exactly on time,placed on the mark
+3,3,on the double,on the floor,very quickly,standing on the floor
+3,3,on the edge,on the rim,very tense or close to danger,positioned on the rim
+3,3,on the fiddle,on the violin,engaged in petty fraud,touching the violin
+3,3,on the fly,on the insect,while in progress,sitting on an insect
+3,3,on the fritz,on the switch,malfunctioning,touching the switch
+3,3,on the go,on the move,busy and active,moving around
+3,3,on the hoof,on the horse,while moving or improvised,sitting on the horse
+3,3,on the horizon,on the skyline,likely or approaching,visible on the skyline
+3,3,on the house,on the roof,free of charge,located on the roof
+3,3,on the lam,on the road,fleeing the law,traveling on the road
+3,3,on the level,on the floor,honest,placed on a flat floor
+3,3,on the line,on the rope,at risk,resting on a rope
+3,3,on the make,on the rise,ambitiously seeking gain,positioned on the rise
+3,3,on the mend,on the couch,recovering,resting on the couch
+3,3,on the money,on the coin,exactly right,placed on a coin
+3,3,on the nose,on the face,exactly right,located on the face
+3,3,on the outs,on the outside,not friendly,located outside
+3,3,on the prowl,on the walk,searching for opportunities,walking around
+3,3,on the rebound,on the trampoline,recovering from rejection,bouncing on a trampoline
+3,3,on the rocks,on the stones,in difficulty or with ice,resting on stones
+3,3,on the ropes,on the cords,near defeat,standing on ropes
+3,3,on the run,on the path,fleeing or very busy,moving along a path
+3,3,on the skids,on the sled,declining,riding on a sled
+3,3,on the sly,on the quiet,secretly,in a quiet manner
+3,3,on the spot,on the dot,immediately or under pressure,placed on a dot
+3,3,on the tiles,on the floor,out partying,standing on floor tiles
+3,3,on the turn,on the hinge,beginning to change,resting on a hinge
+3,3,on the wagon,on the cart,abstaining from alcohol,riding on a cart
+3,3,on your bike,on your scooter,go away,riding your scooter
+3,3,on your guard,on your porch,watchful,standing on your porch
+3,3,on your mettle,on your honor,ready to prove yourself,standing on honor
+3,3,out for blood,out for lunch,seeking revenge,outside for lunch
+3,3,out of bounds,out of range,not allowed,outside the range
+3,3,out of character,out of costume,untypical,not wearing costume
+3,3,out of hand,out of pocket,uncontrolled or immediate,outside a pocket
+3,3,out of line,out of queue,inappropriate,not in the queue
+3,3,out of luck,out of tickets,unlucky or without options,having no tickets
+3,3,out of pocket,out of purse,unavailable or personally paid,outside a purse
+3,3,out of sorts,out of order,slightly unwell or irritable,not in order
+3,3,out of steam,out of fuel,lacking energy,having no fuel
+3,3,out of touch,out of reach,not informed or connected,beyond reach
+3,3,out to lunch,out to dinner,not paying attention,gone to dinner
+3,3,over a barrel,over a fence,in a helpless position,above a fence
+3,3,over the hill,over the bridge,past one's prime,across the bridge
+3,3,over the moon,over the roof,extremely happy,above the roof
+3,3,over the top,over the wall,excessive,across the wall
+3,3,over your head,over your hat,too difficult to understand,above your hat
+3,3,pack a punch,pack a suitcase,have strong impact,fill a suitcase
+3,3,pale into insignificance,pale into whiteness,seem much less important,become pale and white
+3,3,pass the hat,pass the bowl,collect money,hand over the bowl
+3,3,pay lip service,pay cash upfront,pretend support without action,pay money before receiving
+3,3,pay your dues,pay your taxes,earn status through effort,settle your taxes
+3,3,pick a fight,pick a flower,provoke conflict,pluck a flower
+3,3,pick your battles,pick your berries,choose conflicts carefully,select your berries
+3,3,pick your brains,pick your grapes,ask for ideas,pluck your grapes
+3,3,play it safe,play it loud,avoid risk,play music loudly
+3,3,play second fiddle,play second violin,take a subordinate role,play another violin
+3,3,play the field,play the piano,date multiple people,perform on piano
+3,3,play the fool,play the king,act foolishly,act as a king
+3,3,play the game,play the flute,cooperate with conventions,perform on flute
+3,3,play the market,play the guitar,speculate in stocks,perform on guitar
+3,3,play the victim,play the queen,portray oneself as wronged,act as a queen
+3,3,poke fun at,poke holes through,mock or tease,push holes through
+3,3,poke the bear,poke the pillow,provoke danger,prod the pillow
+3,3,pound the pavement,pound the dough,search actively especially for work,knead the dough
+3,3,press the flesh,press the fabric,greet people by handshaking,push the fabric
+3,3,prime the pump,prime the engine,stimulate activity,prepare the engine
+3,3,pull a blinder,pull a curtain,perform brilliantly,draw a curtain
+3,3,pull no punches,pull no ropes,speak bluntly,tug no ropes
+3,3,pull the plug,pull the cord,stop support or activity,remove the cord
+3,3,pull the trigger,pull the lever,make a decisive move,draw the lever
+3,3,pull your punches,pull your blanket,hold back criticism or force,tug your blanket
+3,3,put down roots,put down bags,settle in a place,set bags on ground
+3,3,put on airs,put on shoes,act superior,wear shoes
+3,3,put on hold,put on music,postpone,start playing music
+3,3,put on ice,put on coat,postpone,wear a coat
+3,3,put out feelers,put out plates,make cautious inquiries,place plates outside
+3,3,put paid to,put paid stamps,end or ruin,place paid stamps
+3,3,quick and dirty,quick and messy,fast but imperfect,rapid and messy
+3,3,rags to riches,rags to cloth,rise from poverty to wealth,turn rags into cloth
+3,3,rattle someone's cage,rattle someone's keys,annoy or provoke someone,shake someone's keys
+3,3,read my lips,read my notes,pay close attention,read the notes I wrote
+3,3,right on cue,right on schedule,at the perfect moment,exactly on schedule
+3,3,ring the changes,ring the bell,vary a routine,sound the bell
+3,3,rise and shine,rise and stretch,wake up cheerfully,stand up and stretch
+3,3,road to nowhere,road to town,a futile course,road leading to town
+3,3,rub shoulders with,rub shoulders gently,associate socially with,massage shoulders gently
+3,3,ruffle some feathers,ruffle some papers,annoy or upset people,disorder some papers
+3,3,rule the roost,rule the kingdom,be in charge,govern the kingdom
+3,3,run a temperature,run a marathon,have a fever,compete in a marathon
+3,3,run for cover,run for shelter,seek protection,run toward shelter
+3,3,run on fumes,run on batteries,continue with little energy,operate using batteries
+3,3,run rings around,run rings daily,outperform easily,jog around rings
+3,3,run someone ragged,run someone home,exhaust someone,drive someone home
+3,3,run the gauntlet,run the track,endure criticism or ordeal,sprint around track
+3,3,run the gamut,run the circuit,cover the whole range,complete the circuit
+3,3,save someone's bacon,save someone's sandwich,rescue someone from trouble,preserve someone's sandwich
+3,3,save the day,save the file,prevent failure,store the file
+3,3,save your breath,save your ticket,stop arguing needlessly,keep your ticket
+3,3,scratch the surface,scratch the paint,deal only superficially,scrape the paint
+3,3,scratch your head,scratch your arm,be puzzled,rub your arm
+3,3,scrape the barrel,scrape the pot,use the worst remaining options,clean the pot by scraping
+3,3,seal the deal,seal the jar,finalize an agreement,close the jar
+3,3,see the light,see the lamp,understand or reform,look at the lamp
+3,3,seize the day,seize the package,make the most of now,grab the package
+3,3,sell like hotcakes,sell like books,sell very quickly,sell books quickly
+3,3,sell someone short,sell someone tickets,undervalue someone,sell tickets to someone
+3,3,set in stone,set in clay,fixed and unchangeable,placed in clay
+3,3,set the bar,set the table,establish a standard,arrange the table
+3,3,set the stage,set the clock,prepare conditions,adjust the clock
+3,3,shake a leg,shake a bottle,hurry up,agitate a bottle
+3,3,shake things up,shake things loose,make major changes,shake objects loose
+3,3,shift the goalposts,shift the chairs,change rules unfairly,move the chairs
+3,3,show the ropes,show the map,teach procedures,display the map
+3,3,show true colors,show true documents,reveal real character,display authentic documents
+3,3,show your cards,show your badge,reveal intentions,display your badge
+3,3,sing another tune,sing another song,change your attitude,perform another song
+3,3,sink or swim,sink or float,succeed or fail unaided,go under or float
+3,3,skirt the issue,skirt the puddle,avoid the topic,walk around puddle
+3,3,slip your mind,slip your shoe,be forgotten,slide your shoe off
+3,3,sow your oats,sow your seeds,enjoy youthful freedom,plant your seeds
+3,3,speak your mind,speak your name,state your opinion honestly,say your name
+3,3,spin a yarn,spin a wheel,tell a story,rotate a wheel
+3,3,split the difference,split the bill,compromise midway,divide the bill
+3,3,spring to mind,spring to life,occur suddenly as a thought,jump into life
+3,3,square the circle,square the cloth,attempt the impossible,cut cloth into a square
+3,3,stand on ceremony,stand on carpet,insist on formalities,stand on a carpet
+3,3,stand your ground,stand your ladder,refuse to yield,hold your ladder upright
+3,3,start from scratch,start from home,begin with nothing,begin at home
+3,3,stay the course,stay the night,persist to the end,remain overnight
+3,3,steal a march,steal a cookie,gain an advantage secretly,take a cookie
+3,3,steal someone's thunder,steal someone's umbrella,take credit or attention,take someone's umbrella
+3,3,stem the tide,stem the rose,stop a trend,cut the rose stem
+3,3,stir the pot,stir the soup,provoke trouble,mix the soup
+3,3,strike a balance,strike a match,find a fair compromise,light a match
+3,3,strike a chord,strike a string,resonate emotionally,hit a string
+3,3,strike a nerve,strike a drum,touch a sensitive issue,hit a drum
+3,3,strike it rich,strike it gently,become suddenly wealthy,hit it gently
+3,3,stroke of luck,stroke of brush,a fortunate event,a brush movement
+3,3,swallow your pride,swallow your pill,accept humiliation,ingest your pill
+3,3,sweep the board,sweep the floor,win everything,clean the floor
+3,3,take a bath,take a shower,lose money badly,wash in a shower
+3,3,take a bow,take a seat,accept applause,sit down
+3,3,take a breather,take a blanket,rest briefly,grab a blanket
+3,3,take a hike,take a bus,go away,ride a bus
+3,3,take a powder,take a tablet,leave abruptly,swallow a tablet
+3,3,take by storm,take by hand,win sudden popularity,hold by the hand
+3,3,take center stage,take center seat,become the focus,occupy the center seat
+3,3,take for granted,take for lunch,undervalue or assume,bring for lunch
+3,3,take it easy,take it home,relax,bring it home
+3,3,take no prisoners,take no photos,act ruthlessly,capture no photos
+3,3,take pot luck,take pot lid,accept whatever is available,take a pot lid
+3,3,take someone's word,take someone's coat,trust someone's statement,take another person's coat
+3,3,take the bait,take the worm,respond to temptation,grab the worm
+3,3,take the biscuit,take the cookie,be especially surprising or annoying,grab the cookie
+3,3,take the fall,take the stairs,accept blame,use the stairs
+3,3,take the flak,take the coat,endure criticism,take the coat
+3,3,take the floor,take the rug,begin speaking or dancing,remove the rug
+3,3,take the heat,take the pan,endure pressure or blame,grab the pan
+3,3,take the helm,take the wheel,assume control,grasp the wheel
+3,3,take the lead,take the leash,become first or dominant,grab the leash
+3,3,take the mickey,take the cup,tease or mock,grab the cup
+3,3,take the reins,take the straps,assume control,grip the straps
+3,3,take the wheel,take the handle,take control,grab the handle
+3,3,take to heart,take to bed,be deeply affected,carry something to bed
+3,3,take your lumps,take your parcels,accept punishment or setbacks,collect your parcels
+3,3,tell it straight,tell it loudly,speak honestly,say it loudly
+3,3,that's the ticket,that's the receipt,that is exactly right,that is the receipt
+3,3,thank your stars,thank your teacher,feel grateful for luck,express thanks to your teacher
+3,3,throw a curveball,throw a baseball,introduce an unexpected problem,toss a baseball
+3,3,throw a fit,throw a stone,lose temper dramatically,toss a stone
+3,3,throw a wobbly,throw a ball,have an angry outburst,toss a ball
+3,3,throw cold water,throw cold snow,discourage enthusiasm,toss cold snow
+3,3,throw the book,throw the ball,punish severely,toss the ball
+3,3,tie the knot,tie the ribbon,get married,fasten the ribbon
+3,3,tighten the screws,tighten the bolts,increase pressure,turn bolts tighter
+3,3,tilt at windmills,tilt at targets,fight imaginary enemies,lean toward targets
+3,3,to a T,to a table,exactly,toward a table
+3,3,toe to toe,toe to heel,in direct confrontation,one toe near a heel
+3,3,turn a profit,turn a knob,become profitable,rotate a knob
+3,3,turn the screw,turn the key,increase pressure,rotate the key
+3,3,turn the tide,turn the ship,reverse a trend,change the ship's direction
+3,3,twist someone's arm,twist someone's sleeve,pressure someone to agree,wring someone's sleeve
+3,3,under the gun,under the shelf,under pressure,beneath the shelf
+3,3,under the microscope,under the lens,under close scrutiny,beneath the lens
+3,3,under the radar,under the bridge,unnoticed,beneath the bridge
+3,3,under the table,under the chair,secret or illicit,beneath the chair
+3,3,under the wire,under the fence,just in time,beneath the fence
+3,3,up the ante,up the price,increase the stakes,raise the price
+3,3,up the creek,up the river,in serious trouble,upriver
+3,3,up the wall,up the ladder,crazy or extremely annoyed,ascending the ladder
+3,3,up to par,up to standard,acceptable,meeting a standard
+3,3,up to scratch,up to mark,acceptable,reaching a mark
+3,3,up to speed,up to pace,fully informed or competent,matching the pace
+3,3,use your head,use your hands,think sensibly,employ your hands
+3,3,wag the dog,wag the tail,divert attention from the real issue,move the tail
+3,3,watch this space,watch this screen,expect further developments,look at this screen
+3,3,watch your back,watch your step,stay alert for danger,look at your step
+3,3,weather the storm,weather the winter,survive difficulties,endure the winter weather
+3,3,weigh your words,weigh your luggage,speak carefully,measure your luggage weight
+3,3,wet your whistle,wet your brush,have a drink,moisten your brush
+3,3,wheels come off,wheels come loose,a plan collapses,wheels detach
+3,3,whet your appetite,whet your knife,make you want more,sharpen your knife
+3,3,whistle for it,whistle for dog,have little chance of getting it,call a dog by whistling
+3,3,win hands down,win hands raised,win easily,win with hands lifted
+3,3,work your magic,work your machine,use your special skill,operate your machine
+3,3,worth your salt,worth your money,competent or deserving,having value for your money
+3,3,wring your hands,wring your towel,show anxious distress,twist water from towel
+3,3,crack the code,crack the egg,solve a difficult problem,break the eggshell
+3,3,get the gist,get the gift,grasp the main idea,receive the gift
+3,3,grab a bite,grab a book,eat something quickly,take a book
+3,3,hedge your bets,hedge your garden,reduce your risk,trim the hedge
+3,3,know the ropes,know the route,understand how things work,be familiar with the route
+3,3,lend a hand,lend a pen,offer some help,loan a pen
+3,3,meet your match,meet your friend,encounter an equal rival,greet your friend
+3,3,miss the point,miss the bus,fail to understand,fail to board
+3,3,pick your brain,pick your nose,seek your knowledge,clean your nostril
+3,3,raise the roof,raise the flag,celebrate very loudly,hoist the flag
+3,3,shed some light,shed some leaves,help clarify something,drop some leaves
+3,3,shift the blame,shift the box,redirect responsibility elsewhere,move the box
+3,3,sleep on it,sleep on mats,delay a decision,rest on mats
+3,3,sound the alarm,sound the horn,warn of danger,blow the horn
+3,3,spread your wings,spread your arms,become more independent,extend your arms
+3,3,zip your lip,zip your bag,stay completely silent,close your bag
+3,3,beat the clock,beat the egg,finish before the deadline,whisk the egg
+3,3,button your lip,button your coat,keep quiet,fasten your coat
+3,3,clear your name,clear your plate,prove your innocence,empty your plate
+3,3,drop the act,drop the box,stop pretending,release the box
+3,3,fill your boots,fill your cup,take as much as wanted,fill the cup completely
+3,3,flip your lid,flip your pancake,lose your temper,turn the pancake
+3,3,follow your heart,follow your map,act on your feelings,navigate by map
+3,3,grease the wheels,grease the pan,make things go smoothly,oil the pan
+3,3,kill some time,kill some flies,occupy idle time,swat some flies
+3,3,mind your manners,mind your step,behave politely,watch your footing
+3,3,miss a beat,miss a step,hesitate or falter,skip a stair
+3,3,pack your bags,pack your lunch,get ready to leave,prepare your lunch
+3,3,play it cool,play it loud,act calm and detached,play music loudly
+3,3,rub it in,rub it out,keep mentioning a failure,erase the mark
+3,3,settle the score,settle the bill,get even with someone,pay the bill
+3,3,show your hand,show your ticket,reveal your intentions,display your ticket
+3,3,spread the word,spread the jam,tell everyone the news,smear the jam
+3,3,take a stand,take a seat,assert your position,sit down somewhere
+3,3,test the waters,test the brakes,gauge people's reactions,check the brakes
+3,3,wake the dead,wake the baby,be extremely loud,rouse the baby
+3,3,wear many hats,wear warm hats,juggle multiple roles,put on hats
+3,3,win the day,win the race,achieve final victory,finish first overall
+3,3,answer the call,answer the door,respond to a duty,open the door
+3,3,bend an ear,bend a wire,talk to someone lengthily,curve the wire
+3,3,blow the budget,blow the balloon,spend far too much,inflate the balloon
+3,3,bury your head,rest your head,refuse to face reality,lay down your head
+3,3,change of heart,change of clothes,a reversal of feeling,a fresh outfit
+3,3,close the gap,close the door,narrow the difference,shut the door
+3,3,earn your stripes,earn your wage,prove yourself through effort,be paid wages
+3,3,follow the herd,follow the path,conform to the crowd,walk the path
+3,3,hit the brakes,hit the keys,stop or slow abruptly,strike the keys
+3,3,in the bag,in the box,virtually guaranteed,inside the box
+3,3,in the dark,in the cellar,kept uninformed,inside the cellar
+3,3,kick the tires,kick the wall,inspect before committing,strike the wall
+3,3,lay your cards,lay your bricks,reveal your true intentions,place the bricks
+3,3,learn your lesson,learn your lines,gain wisdom from a mistake,memorize the lines
+3,3,mend your ways,mend your socks,reform your behavior,repair your socks
+3,3,mind your business,mind your luggage,stay out of others' affairs,watch your luggage
+3,3,name your price,name your child,state your terms,choose a name
+3,3,raise the alarm,raise the blind,warn of approaching danger,lift the blind
+3,3,walk the plank,walk the dog,be forced out,exercise the dog
+3,3,across the board,across the river,applying to everyone,to the far side
+3,3,by the book,by the river,strictly following rules,beside the river
+3,3,catch the drift,catch the breeze,grasp the meaning,feel the breeze
+3,3,clip your wings,clip your nails,restrict your freedom,trim your nails
+3,3,train of thought,train of cars,a line of reasoning,a row of railcars
+3,3,throw a wrench,throw a rock,disrupt the plans,hurl a rock
